@@ -1,7 +1,7 @@
 // array
 
 const myArr = [0, 1, 2, 3, 4, 5]
-const myHeors = ["Chatrapti Shivaji Maharaj", "Chaturanga Shambhaji Maharaj", "Hanuman"]
+const myHeors = ["Chhatrapti Shivaji Maharaj", "Chhatrapati Shambhaji Maharaj", "Hanuman"]
 
 console.log (myHeors[2]);
 
